@@ -14,16 +14,19 @@ Here are some of the projects you can explore:
 
 ## Digital VLSI: [Link](https://github.com/BenSafwat/DigitalVLSI/)
 
-- [Clock Dividers (1.5, 2, 2.5, 3, 5)](https://github.com/BenSafwat/DigitalVLSI/tree/main/01.ClockDivider)
-- [Glitch Free Clock MUX](#)
-- [Synchronous and Asynchronous FIFO](#)
-- [UART Transmitter and Receiver Module](#)
-- [SPI Master and Slave Modules](#)
-- [I2C Master and Slave Modules](#)
-- [APB Requester/Completer Bus Modules](#)
-- [AXI4-Lite Slave Interface](#)
-- [AHB Slave & Master Modules](#)
-- [Wishbone Bus Interface](#)
-- [Radix-4 Multiplier (Modified Booth Algorithm)](#)
+- Clock Dividers (1.5, 2, 2.5, 3, 5)[Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/01.ClockDivider)
+- Glitch Free Clock MUX[Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/02.ClockMUX)
+- SynchronousFIFO [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/03.FIFO)
+- GrayEnocder_Decoder [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/04.GrayEnocder_Decoder)
+- TwoFF_Synchronizer [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/05.twoFF_Synchronizer)
+- Asynchronous FIFO [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/06.Asyhncronus_FIFO)
+- UART Transmitter and Receiver Module [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/07.UART)
+- SPI Master and Slave Modules [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/09.SPI)
+- I2C Master and Slave Modules [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/08.I2C)
+- APB Requester/Completer Bus Modules [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/11.APB)
+- AXI4-Lite Slave Interface [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/12.AXI)
+- AHB Slave & Master Modules [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/10.AHB)
+- Radix-4 Multiplier (Modified Booth Algorithm) [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/13.Modified_Booth_Multiplier)
 
+>**💡 TIP**
 > Start by reading the project README file to understand the objectives and highlights, then explore the code and reports for implementation details. Videos can provide a quick walkthrough if you prefer a visual explanation.
