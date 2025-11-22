@@ -15,6 +15,7 @@ Here are some of the projects you can explore:
 ## Digital VLSI: [Link](https://github.com/BenSafwat/DigitalVLSI/)
 
 - Clock Dividers (1.5, 2, 2.5, 3, 5)[Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/01.ClockDivider)
+- something <a href="https://github.com/BenSafwat/DigitalVLSI/tree/main/01.ClockDivider" target="_blank">Link</a>
 - Glitch Free Clock MUX[Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/02.ClockMUX)
 - SynchronousFIFO [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/03.FIFO)
 - GrayEnocder_Decoder [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/04.GrayEnocder_Decoder)
@@ -28,5 +29,4 @@ Here are some of the projects you can explore:
 - AHB Slave & Master Modules [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/10.AHB)
 - Radix-4 Multiplier (Modified Booth Algorithm) [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/13.Modified_Booth_Multiplier)
 
->**💡 TIP**
-> Start by reading the project README file to understand the objectives and highlights, then explore the code and reports for implementation details. Videos can provide a quick walkthrough if you prefer a visual explanation.
+>**💡 TIP : **Start by reading the project README file to understand the objectives and highlights, then explore the code and reports for implementation details. Videos can provide a quick walkthrough if you prefer a visual explanation.
