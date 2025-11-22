@@ -12,7 +12,7 @@ Beyond the explanations, each project includes all the files that bring it to li
 
 Here are some of the projects you can explore:
 
-- [Clock Dividers (1.5, 2, 2.5, 3, 5)](#https://github.com/BenSafwat/DigitalVLSI/tree/main/01.ClockDivider)
+- [Clock Dividers (1.5, 2, 2.5, 3, 5)](https://github.com/BenSafwat/DigitalVLSI/tree/main/01.ClockDivider)
 - [Glitch Free Clock MUX](#)
 - [Synchronous and Asynchronous FIFO](#)
 - [UART Transmitter and Receiver Module](#)
