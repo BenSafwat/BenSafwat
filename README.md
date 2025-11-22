@@ -15,7 +15,6 @@ Here are some of the projects you can explore:
 ## Digital VLSI: [Link](https://github.com/BenSafwat/DigitalVLSI/)
 
 - Clock Dividers (1.5, 2, 2.5, 3, 5)[Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/01.ClockDivider)
-- something <a href="https://github.com/BenSafwat/DigitalVLSI/tree/main/01.ClockDivider" target="_blank">Link</a>
 - Glitch Free Clock MUX[Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/02.ClockMUX)
 - SynchronousFIFO [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/03.FIFO)
 - GrayEnocder_Decoder [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/04.GrayEnocder_Decoder)
@@ -25,8 +24,8 @@ Here are some of the projects you can explore:
 - SPI Master and Slave Modules [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/09.SPI)
 - I2C Master and Slave Modules [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/08.I2C)
 - APB Requester/Completer Bus Modules [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/11.APB)
-- AXI4-Lite Slave Interface [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/12.AXI)
 - AHB Slave & Master Modules [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/10.AHB)
+- AXI4-Lite Slave Interface [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/12.AXI)
 - Radix-4 Multiplier (Modified Booth Algorithm) [Link](https://github.com/BenSafwat/DigitalVLSI/tree/main/13.Modified_Booth_Multiplier)
 
 >**💡 TIP : **Start by reading the project README file to understand the objectives and highlights, then explore the code and reports for implementation details. Videos can provide a quick walkthrough if you prefer a visual explanation.
